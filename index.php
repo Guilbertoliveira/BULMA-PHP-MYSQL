@@ -21,7 +21,7 @@
           <form action="login.php" method="POST">
           <div class="field">
             <p class="control has-icons-left has-icons-right">
-              <input class="input" type="email" name="usuario" placeholder="Email">
+              <input class="input" type="text" name="usuario" placeholder="Email">
               <span class="icon is-small is-left">
                 <i class="fas fa-envelope"></i>
               </span>

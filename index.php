@@ -18,7 +18,7 @@
             My first website with <strong>Bulma</strong>!
           </p>
 
-          <form action="oi">
+          <form action="login.php">
           <div class="field">
             <p class="control has-icons-left has-icons-right">
               <input class="input" type="email" placeholder="Email">
